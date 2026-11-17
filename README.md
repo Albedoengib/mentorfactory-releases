@@ -2,7 +2,7 @@
 
 **The minds you trust, working for you.**
 
-👉 **[mentorfactory.ai](https://mentorfactory.ai)** — learn what Mentor Factory is and download it.
+👉 **[mentorfactory.ai](https://mentorfactory.ai)**: learn what Mentor Factory is and download it.
 
 This repository distributes the official Mentor Factory installers. Mentor Factory is closed-source software; its code is not published here.
 
