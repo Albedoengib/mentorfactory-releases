@@ -79,7 +79,7 @@ Mentor Factory is private by design. Read the <a href="https://mentorfactory.ai/
 <details>
 <summary><b>Where is the source code?</b></summary>
 <br>
-Mentor Factory is closed-source software. This repository only distributes the official installers. GitHub automatically attaches "Source code (zip)" and "Source code (tar.gz)" to every release; here they contain only this README. They are not the app and you don't need them.
+Mentor Factory is closed-source software. This repository only distributes the official installers. GitHub automatically attaches "Source code (zip)" and "Source code (tar.gz)" to every release; here they contain only this page and its pictures. They are not the app and you don't need them.
 </details>
 
 <details>
