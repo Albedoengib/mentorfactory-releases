@@ -2,11 +2,13 @@
 
 **The minds you trust, working for you.**
 
+👉 **[mentorfactory.ai](https://mentorfactory.ai)** — learn what Mentor Factory is and download it.
+
 This repository distributes the official Mentor Factory installers. Mentor Factory is closed-source software; its code is not published here.
 
 ## Download
 
-Get the latest version from the [Releases page](https://github.com/Albedoengib/mentorfactory-releases/releases/latest):
+The easiest way is [mentorfactory.ai](https://mentorfactory.ai). You can also get the latest version from the [Releases page](https://github.com/Albedoengib/mentorfactory-releases/releases/latest):
 
 - **macOS** (Apple Silicon): `MentorFactory-v<version>.dmg`
 - **Windows** (64-bit): `MentorFactory-v<version>-x64-setup.exe`
